@@ -1,0 +1,17 @@
+{
+    "name": "Network",
+    "rootNamespace": "Moba.Network",
+    "references": [
+        "GUID:b6e0cf0650b5cc74eabc0d7b3c815bc1",
+        "GUID:1491147abca9d7d4bb7105af628b223e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
